@@ -1,0 +1,23 @@
+{
+  "name": "sha256dle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neryash/SHA256LE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neryash/SHA256LE/issues"
+  },
+  "homepage": "https://github.com/neryash/SHA256LE#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
