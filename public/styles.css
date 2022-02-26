@@ -8,7 +8,7 @@ body, html{
 .contAll{
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   width: 100%;
   height: 100%;
   justify-content: center;
@@ -28,6 +28,17 @@ body, html{
   background-color: gray;
   border-radius: 2px;
   margin:0 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.success{
+  background-color: green;
+}
+.cubeTXT{
+  font-size: 20px;
+  margin: auto;
+  font-style: roboto;
 }
 .title{
   font-size: 5rem;
